@@ -1,0 +1,9 @@
+|p1 p2|
+p1 := Alumno new.
+p1 nombre: 'robert'.
+p1 nombre.
+
+p2 := PersonaT new.
+p2 newAlumno: Alumno new.
+p2 nombre: 'robert'.
+p2 nombre
